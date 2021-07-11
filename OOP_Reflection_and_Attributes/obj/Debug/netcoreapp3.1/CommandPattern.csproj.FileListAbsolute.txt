@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\OOP_Reflection_and_Attributes\OOP_Reflection_and_Attributes\bin\Debug\netcoreapp3.1\CommandPattern.exe
+C:\Users\A474627\source\repos\OOP_Reflection_and_Attributes\OOP_Reflection_and_Attributes\bin\Debug\netcoreapp3.1\CommandPattern.deps.json
+C:\Users\A474627\source\repos\OOP_Reflection_and_Attributes\OOP_Reflection_and_Attributes\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.json
+C:\Users\A474627\source\repos\OOP_Reflection_and_Attributes\OOP_Reflection_and_Attributes\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\OOP_Reflection_and_Attributes\OOP_Reflection_and_Attributes\bin\Debug\netcoreapp3.1\CommandPattern.dll
+C:\Users\A474627\source\repos\OOP_Reflection_and_Attributes\OOP_Reflection_and_Attributes\bin\Debug\netcoreapp3.1\CommandPattern.pdb
+C:\Users\A474627\source\repos\OOP_Reflection_and_Attributes\OOP_Reflection_and_Attributes\obj\Debug\netcoreapp3.1\CommandPattern.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\OOP_Reflection_and_Attributes\OOP_Reflection_and_Attributes\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\OOP_Reflection_and_Attributes\OOP_Reflection_and_Attributes\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfo.cs
+C:\Users\A474627\source\repos\OOP_Reflection_and_Attributes\OOP_Reflection_and_Attributes\obj\Debug\netcoreapp3.1\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\OOP_Reflection_and_Attributes\OOP_Reflection_and_Attributes\obj\Debug\netcoreapp3.1\CommandPattern.dll
+C:\Users\A474627\source\repos\OOP_Reflection_and_Attributes\OOP_Reflection_and_Attributes\obj\Debug\netcoreapp3.1\CommandPattern.pdb
+C:\Users\A474627\source\repos\OOP_Reflection_and_Attributes\OOP_Reflection_and_Attributes\obj\Debug\netcoreapp3.1\CommandPattern.genruntimeconfig.cache

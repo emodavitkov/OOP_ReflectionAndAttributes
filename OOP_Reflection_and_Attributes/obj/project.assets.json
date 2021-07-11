@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A474627\\source\\repos\\OOP_Reflection_and_Attributes\\OOP_Reflection_and_Attributes\\OOP_Reflection_and_Attributes.csproj",
-      "projectName": "OOP_Reflection_and_Attributes",
-      "projectPath": "C:\\Users\\A474627\\source\\repos\\OOP_Reflection_and_Attributes\\OOP_Reflection_and_Attributes\\OOP_Reflection_and_Attributes.csproj",
+      "projectUniqueName": "C:\\Users\\A474627\\source\\repos\\OOP_Reflection_and_Attributes\\OOP_Reflection_and_Attributes\\CommandPattern.csproj",
+      "projectName": "CommandPattern",
+      "projectPath": "C:\\Users\\A474627\\source\\repos\\OOP_Reflection_and_Attributes\\OOP_Reflection_and_Attributes\\CommandPattern.csproj",
       "packagesPath": "C:\\Users\\A474627\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\A474627\\source\\repos\\OOP_Reflection_and_Attributes\\OOP_Reflection_and_Attributes\\obj\\",
       "projectStyle": "PackageReference",
